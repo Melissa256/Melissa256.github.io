@@ -1,0 +1,30 @@
+
+
+.header:hover { transform: scale(1.1); }
+.boxed:hover { transform: scale(1.1); }
+
+
+.header{
+ background-color: white;
+  width: 1000px;
+height: 500x;
+top: 50%;
+left: 50%;
+ display:block;
+margin:auto;
+  border: 3px;
+  border-style:solid}
+
+
+
+.boxed {background-color: white; width: 150px;
+height: 120px;
+top: 50%;
+left: 50%;
+ display:block;
+margin:auto;
+  border: 3px;
+  border-style:solid}
+body{
+background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8cmFkaWFsR3JhZGllbnQgaWQ9ImcxODIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBjeD0iNTAlIiBjeT0iMTAwJSIgcj0iMjAwJSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGRkZGRkYiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiM1OEFDRkEiIG9mZnNldD0iMSIvPgo8L3JhZGlhbEdyYWRpZW50Pgo8cmVjdCB4PSItNTAiIHk9Ii01MCIgd2lkdGg9IjEwMSIgaGVpZ2h0PSIxMDEiIGZpbGw9InVybCgjZzE4MikiIC8+Cjwvc3ZnPg==);
+  
